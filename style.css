@@ -9,7 +9,7 @@ body{
 }
  .hamburger-icon {
    display: none;
-}
+ }
 
 .hamburger-icon {
    border: none;
@@ -48,6 +48,7 @@ body{
    background-position: center center;
    position: relative;
    height: 100vh;
+   
 
 }
 
