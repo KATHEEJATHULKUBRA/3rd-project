@@ -618,10 +618,6 @@ div#slider figure {
         display: block ; 
       
   }
-  body{
-   border: 2px solid red;
-  }
-
   .hamburger-icon {
       display: block;
       position: absolute;
