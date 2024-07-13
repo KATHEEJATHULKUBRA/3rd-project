@@ -34,7 +34,7 @@ body{
    align-items: center;
    position: fixed; 
     background-color: rgb(59, 59, 59); 
-   border-radius: 10px;
+   border-radius: 0 0 6px 6px;
    top: 0;
    width: 100%;
    z-index: 99;
