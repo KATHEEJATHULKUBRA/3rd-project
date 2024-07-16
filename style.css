@@ -721,7 +721,7 @@ div#slider figure {
       width: 250px;
    }
    .text-box p{
-      width: 80px;
+      width: 80%;
    }
      .foot{
       flex-direction: column;
@@ -822,8 +822,8 @@ div#slider figure {
       height: 1200px;
    }
    .contenthome h3{
-      font-size: 33px;
-      width: 350px;
+      font-size: 25px;
+      width: 270px;
    } 
    
    .like{
@@ -831,7 +831,7 @@ div#slider figure {
       height: fit-content;
    }
     .text-box p{
-      width: 80px;
+      width: 80%;
    }
    
    .box3,.another3{
@@ -957,6 +957,10 @@ div#slider figure {
    .bg-home{
       height: 1000px;
    }
+   .contenthome h3{
+      font-size: 43px;
+      width: 380px;
+   }
 
 
    .like{
@@ -986,7 +990,7 @@ div#slider figure {
    }
    .fea1item .contentitem,.fea2item .contentitem{
       width: auto;
-      height: 340px;
+      height: unset;
    }
    .videocontent h3{
     margin-bottom: 20px ;
@@ -997,6 +1001,7 @@ div#slider figure {
    .faqitem2{
       flex-direction: column;
       height: fit-content;
+      gap: 23px;
    } 
    .faqitem2 p {
       width: auto;
