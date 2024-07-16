@@ -990,7 +990,7 @@ div#slider figure {
    }
    .fea1item .contentitem,.fea2item .contentitem{
       width: auto;
-      height: unset;
+      height: 340px;
    }
    .videocontent h3{
     margin-bottom: 20px ;
