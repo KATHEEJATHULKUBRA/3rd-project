@@ -705,12 +705,13 @@ div#slider figure {
    }
    .fea1item .contentitem,.fea2item .contentitem{
       width: auto;
-      height: 340px;
+      height: unset;
    }
    
    .faqitem2{
       flex-direction: column;
       height: fit-content;
+        gap: 23px;
    } 
    .faqitem2 p {
       width: auto;
@@ -718,6 +719,9 @@ div#slider figure {
    }
    .center input,.center .send{
       width: 250px;
+   }
+   .text-box p{
+      width: 80px;
    }
      .foot{
       flex-direction: column;
@@ -730,6 +734,10 @@ div#slider figure {
    }
    .contentitem{
       margin-bottom: 60px ;
+   }
+   .contenthome h3{
+      font-size: 23px;
+      width: 270px;
    }
    
    .clientit p{
@@ -815,11 +823,15 @@ div#slider figure {
    }
    .contenthome h3{
       font-size: 33px;
-      padding: 10px;
+      width: 350px;
    } 
+   
    .like{
       flex-direction: column;
       height: fit-content;
+   }
+    .text-box p{
+      width: 80px;
    }
    
    .box3,.another3{
@@ -839,12 +851,13 @@ div#slider figure {
    }
    .fea1item .contentitem,.fea2item .contentitem{
       width: auto;
-      height: 340px;
+      height: unset;
    }
    
    .faqitem2{
       flex-direction: column;
       height: fit-content;
+      gap: 23px;
    } 
    .faqitem2 p {
       width: auto;
